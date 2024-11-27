@@ -6,7 +6,7 @@
 # It is included in the main 'build.ninja'.
 
 # =============================================================================
-# Project: 8_Operators_Overloading
+# Project: 9_Move_Semantics
 # Configurations: Debug
 # =============================================================================
 # =============================================================================
@@ -23,7 +23,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "D:\Software\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"D:\Codes\cpp\CS106L\8-Operators Overloading" -B"D:\Codes\cpp\CS106L\8-Operators Overloading\cmake-build-debug"
+  command = "D:\Software\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"D:\Codes\cpp\CS106L\9-Move Semantics" -B"D:\Codes\cpp\CS106L\9-Move Semantics\cmake-build-debug"
   description = Re-running CMake...
   generator = 1
 

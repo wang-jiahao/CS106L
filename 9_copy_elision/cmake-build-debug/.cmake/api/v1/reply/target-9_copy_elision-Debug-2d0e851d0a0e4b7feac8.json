@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "8_Operators_Overloading.exe"
+			"path" : "9_copy_elision.exe"
 		},
 		{
-			"path" : "8_Operators_Overloading.pdb"
+			"path" : "9_copy_elision.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -13,7 +13,8 @@
 	{
 		"commands" : 
 		[
-			"add_executable"
+			"add_executable",
+			"target_compile_options"
 		],
 		"files" : 
 		[
@@ -29,6 +30,12 @@
 				"file" : 0,
 				"line" : 6,
 				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
 			}
 		]
 	},
@@ -38,7 +45,11 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -fdiagnostics-color=always"
+					"fragment" : "-g -std=gnu++11 -fdiagnostics-color=always"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-fno-elide-constructors"
 				}
 			],
 			"language" : "CXX",
@@ -48,7 +59,7 @@
 				[
 					1
 				],
-				"standard" : "17"
+				"standard" : "11"
 			},
 			"sourceIndexes" : 
 			[
@@ -56,7 +67,7 @@
 			]
 		}
 	],
-	"id" : "8_Operators_Overloading::@6890427a1f51a3e7e1df",
+	"id" : "9_copy_elision::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +87,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "8_Operators_Overloading",
-	"nameOnDisk" : "8_Operators_Overloading.exe",
+	"name" : "9_copy_elision",
+	"nameOnDisk" : "9_copy_elision.exe",
 	"paths" : 
 	{
 		"build" : ".",

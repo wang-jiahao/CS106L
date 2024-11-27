@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "8_Operators_Overloading",
+					"name" : "untitled",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "8_Operators_Overloading::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-8_Operators_Overloading-Debug-37e07bb132b9049caf48.json",
-					"name" : "8_Operators_Overloading",
+					"id" : "9_copy_elision::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9_copy_elision-Debug-2d0e851d0a0e4b7feac8.json",
+					"name" : "9_copy_elision",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Codes/cpp/CS106L/8-Operators Overloading/cmake-build-debug",
-		"source" : "D:/Codes/cpp/CS106L/8-Operators Overloading"
+		"build" : "D:/Codes/cpp/CS106L/9_copy_elision/cmake-build-debug",
+		"source" : "D:/Codes/cpp/CS106L/9_copy_elision"
 	},
 	"version" : 
 	{

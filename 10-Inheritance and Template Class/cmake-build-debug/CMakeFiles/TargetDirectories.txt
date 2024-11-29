@@ -1,0 +1,2 @@
+D:/Codes/cpp/CS106L/10-Inheritance and Template Class/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/cpp/CS106L/10-Inheritance and Template Class/cmake-build-debug/CMakeFiles/rebuild_cache.dir

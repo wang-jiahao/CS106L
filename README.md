@@ -1,5 +1,11 @@
 # Stanford CS106L: Standard C++ Programming
 
+## webiste
+
+https://web.stanford.edu/class/cs106l/
+
+## courses information
+
 1. streams(istringstream and ostringstream)
 2. types(pair, tuple and structured binding)
 3. sequence containers(vector, deque, list, array)

@@ -21,8 +21,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e4b4dfd-5c8e-44d0-b579-4abc29478233" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../2-Types/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2-Types/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Types/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../2-Types/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-Associative Containers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4-Associative Containers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/.cmake/api/v1/reply/index-2024-11-27T13-32-42-0613.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/9_copy_elision.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/9_copy_elision.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +66,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Codes/cpp/CS106L/3-Sequence Containers",
+    "last_opened_file_path": "D:/Codes/cpp/CS106L/4-Associative Containers",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -78,6 +87,7 @@
       <updated>1731684583999</updated>
       <workItem from="1731684585228" duration="35000" />
       <workItem from="1731936908847" duration="16000" />
+      <workItem from="1732885569020" duration="139000" />
     </task>
     <servers />
   </component>

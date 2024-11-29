@@ -21,13 +21,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="888944cd-b61b-47c4-84bc-b9d770431e5b" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../2-Types/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2-Types/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Types/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../2-Types/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3-Sequence Containers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3-Sequence Containers/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3-Sequence Containers/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../3-Sequence Containers/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/4_Associative_Containers.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/4_Associative_Containers.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4_Associative_Containers.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4_Associative_Containers.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/.cmake/api/v1/reply/index-2024-11-27T13-32-42-0613.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/9_copy_elision.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/9_copy_elision.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +69,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Codes/cpp/CS106L/4-Associative Containers",
+    "last_opened_file_path": "D:/Codes/cpp/CS106L/5-Advanced Containers and Iterators",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -84,6 +90,7 @@
       <updated>1731684638636</updated>
       <workItem from="1731684639843" duration="19000" />
       <workItem from="1731936985883" duration="46000" />
+      <workItem from="1732885704929" duration="65000" />
     </task>
     <servers />
   </component>

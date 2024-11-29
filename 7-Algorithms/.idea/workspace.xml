@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -20,7 +20,26 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2d0d84e-5ead-4c21-97d0-acdcd97e072d" name="更改" comment="" />
+    <list default="true" id="a2d0d84e-5ead-4c21-97d0-acdcd97e072d" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../2-Types/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2-Types/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Types/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../2-Types/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-Sequence Containers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3-Sequence Containers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-Sequence Containers/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../3-Sequence Containers/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-Associative Containers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4-Associative Containers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-Associative Containers/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../4-Associative Containers/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-Advanced Containers and Iterators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5-Advanced Containers and Iterators/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-Advanced Containers and Iterators/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../5-Advanced Containers and Iterators/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-Templates and Functions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../6-Templates and Functions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-Templates and Functions/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../6-Templates and Functions/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/.cmake/api/v1/reply/index-2024-11-27T13-32-42-0613.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/9_copy_elision.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/9_copy_elision.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../9_copy_elision/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,14 +49,17 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2023" />
     <option name="minorVersion" value="2.1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2otN9szi9HHFwuz0HIRfDl7JXBo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,15 +72,12 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Codes/cpp/CS106L/8-Operators Overloading",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="7_Algorithms" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="7_Algorithms" TARGET_NAME="7_Algorithms" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="7_Algorithms" RUN_TARGET_NAME="7_Algorithms">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -74,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731684763300</updated>
       <workItem from="1731684764502" duration="30000" />
+      <workItem from="1732885861896" duration="133000" />
     </task>
     <servers />
   </component>

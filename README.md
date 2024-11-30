@@ -6,7 +6,7 @@ https://web.stanford.edu/class/cs106l/
 
 ## courses notes:
 
-[10-Inheritance and Template Classes](https://github.com/wang-jiahao/CS106L/blob/master/10-Inheritance and Template Class/README.md)
+[10-Inheritance and Template Classes](https://github.com/wang-jiahao/CS106L/blob/master/10-Inheritance%20and%20Template%20Class/README.md)
 
 ## courses information
 

@@ -4,6 +4,10 @@
 
 https://web.stanford.edu/class/cs106l/
 
+## courses notes:
+
+[10-Inheritance and Template Classes](https://github.com/wang-jiahao/CS106L/blob/master/10-Inheritance and Template Class/README.md)
+
 ## courses information
 
 - [x] streams(istringstream and ostringstream)
@@ -16,4 +20,4 @@ https://web.stanford.edu/class/cs106l/
 - [x] algorithms(sort, nth_element, stable_partition, copy_if, erase-remove idiom)
 - [x] operators overloading(inside the class or outside the class and why)
 - [x] move semantics(move function, move constructor, move assignment, l-value, r-value, && and copy_elision)
-- [ ] inheritance and template classes(virtual functions, class inheritance and C++20 <concepts>)
+- [x] inheritance and template classes(virtual functions, class inheritance and C++20 <concepts>)

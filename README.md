@@ -21,3 +21,4 @@ https://web.stanford.edu/class/cs106l/
 - [x] operators overloading(inside the class or outside the class and why)
 - [x] move semantics(move function, move constructor, move assignment, l-value, r-value, && and copy_elision)
 - [x] inheritance and template classes(virtual functions, class inheritance and C++20 <concepts>)
+- [ ] RAII and smart pointers(exceptions, RAII, fstream, smart pointers)

@@ -7,6 +7,7 @@ https://web.stanford.edu/class/cs106l/
 ## courses notes:
 
 [10-Inheritance and Template Classes](https://github.com/wang-jiahao/CS106L/blob/master/10-Inheritance%20and%20Template%20Class/README.md)
+
 [11-RAII and Smart Pointers](https://github.com/wang-jiahao/CS106L/blob/master/11-RAII%20and%20Smart%20Pointers/README.md)
 
 ## courses information

@@ -10,10 +10,12 @@ https://web.stanford.edu/class/cs106l/
 
 [11-RAII and Smart Pointers](https://github.com/wang-jiahao/CS106L/blob/master/11-RAII%20and%20Smart%20Pointers/README.md)
 
+[12-Multithreading](https://github.com/wang-jiahao/CS106L/blob/master/12-Multithreading/README.md)
+
+[13-Template Metaprogramming](https://github.com/wang-jiahao/CS106L/blob/master/13-Template%20Metaprogramming/README.md)
 ## courses information
 
-- [x] streams(istringstream and ostringstream)
-
+- [x] streams(istringstream and ostringstream) 
 - [x] types(pair, tuple and structured binding)
 - [x] sequence containers(vector, deque, list, array)
 - [x] container adaptors(stack, queue)

@@ -24,3 +24,5 @@ https://web.stanford.edu/class/cs106l/
 - [x] move semantics(move function, move constructor, move assignment, l-value, r-value, && and copy_elision)
 - [x] inheritance and template classes(virtual functions, class inheritance and C++20 <concepts>)
 - [x] RAII and smart pointers(exceptions, RAII, fstream, smart pointers)
+- [x] Multithreading(thread, lock)
+- [x] Template Metaprogramming(meta function, constexpr)

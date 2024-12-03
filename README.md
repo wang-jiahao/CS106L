@@ -1,5 +1,7 @@
 # Stanford CS106L: Standard C++ Programming
 
+I finally finish CS106L courses! (2024-12-02)
+
 ## webiste
 
 https://web.stanford.edu/class/cs106l/

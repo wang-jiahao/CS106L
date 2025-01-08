@@ -32,12 +32,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Codes/cpp/CS106L/8-Operators Overloading/cmake-build-debug",
-		"source" : "D:/Codes/cpp/CS106L/8-Operators Overloading"
+		"build" : "D:/Codes/C++/CS106L/8-Operators Overloading/cmake-build-debug",
+		"source" : "D:/Codes/C++/CS106L/8-Operators Overloading"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 7
 	}
 }

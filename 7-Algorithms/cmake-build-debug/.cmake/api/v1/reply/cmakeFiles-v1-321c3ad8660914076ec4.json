@@ -817,8 +817,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/Codes/cpp/CS106L/7-Algorithms/cmake-build-debug",
-		"source" : "D:/Codes/cpp/CS106L/7-Algorithms"
+		"build" : "D:/Codes/C++/CS106L/7-Algorithms/cmake-build-debug",
+		"source" : "D:/Codes/C++/CS106L/7-Algorithms"
 	},
 	"version" : 
 	{

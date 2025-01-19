@@ -8,13 +8,13 @@ https://web.stanford.edu/class/cs106l/
 
 ## courses notes:
 
-[10-Inheritance and Template Classes](https://github.com/wang-jiahao/CS106L/blob/master/10-Inheritance%20and%20Template%20Class/README.md)
+[10-Inheritance and Template Classes](https://wang-jiahao.github.io/posts/35825.html)
 
-[11-RAII and Smart Pointers](https://github.com/wang-jiahao/CS106L/blob/master/11-RAII%20and%20Smart%20Pointers/README.md)
+[11-RAII and Smart Pointers](https://wang-jiahao.github.io/posts/60866.html)
 
-[12-Multithreading](https://github.com/wang-jiahao/CS106L/blob/master/12-Multithreading/README.md)
+[12-Multithreading](https://wang-jiahao.github.io/posts/28135.html)
 
-[13-Template Metaprogramming](https://github.com/wang-jiahao/CS106L/blob/master/13-Template%20Metaprogramming/README.md)
+[13-Template Metaprogramming](https://wang-jiahao.github.io/posts/3991.html)
 ## courses information
 
 - [x] streams(istringstream and ostringstream) 
